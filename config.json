@@ -1,8 +1,8 @@
 {
     "server":"185.185.185.185",
-    "server_port":8388,
+    "server_port":443,
     "local_port":1080,
-    "password":"barfoo!",
+    "password":"theguest",
     "timeout":600,
     "method":"chacha20-ietf-poly1305"
 }
